@@ -1,0 +1,4 @@
+D:\PTPMUDTM\QL_CAFE\QLCafe\QL_CAFE\CustomControls\bin\Debug\CustomControls.dll
+D:\PTPMUDTM\QL_CAFE\QLCafe\QL_CAFE\CustomControls\bin\Debug\CustomControls.pdb
+D:\PTPMUDTM\QL_CAFE\QLCafe\QL_CAFE\CustomControls\obj\Debug\CustomControls.dll
+D:\PTPMUDTM\QL_CAFE\QLCafe\QL_CAFE\CustomControls\obj\Debug\CustomControls.pdb

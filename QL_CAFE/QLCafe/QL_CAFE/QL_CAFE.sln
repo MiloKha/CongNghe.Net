@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{EC20E882-4243-48C4-ACF0-EC342873CF06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{5A9C7296-0C8E-461C-8D61-5D5B522693E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControls", "CustomControls\CustomControls.csproj", "{FB2796A6-6061-4133-819B-A3D97E143502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC20E882-4243-48C4-ACF0-EC342873CF06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC20E882-4243-48C4-ACF0-EC342873CF06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC20E882-4243-48C4-ACF0-EC342873CF06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC20E882-4243-48C4-ACF0-EC342873CF06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A9C7296-0C8E-461C-8D61-5D5B522693E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A9C7296-0C8E-461C-8D61-5D5B522693E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A9C7296-0C8E-461C-8D61-5D5B522693E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A9C7296-0C8E-461C-8D61-5D5B522693E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2796A6-6061-4133-819B-A3D97E143502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2796A6-6061-4133-819B-A3D97E143502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2796A6-6061-4133-819B-A3D97E143502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2796A6-6061-4133-819B-A3D97E143502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

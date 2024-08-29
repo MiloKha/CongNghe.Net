@@ -1,0 +1,10 @@
+		    CAFE QUÁN
+		HÓA ĐƠN THANH TOÁN
+TÊN NHÂN VIÊN : TRẦN THANH LÂN 
+TênMón	        SL       ĐG     T.Tiền
+***************************************
+Trà Vải	1	25000	25000
+Trà Sữa 2	2	25000	50000
+***************************************
+TỔNG CỘNG                  75000 VNĐ
+CHÚC QUÝ KHÁCH VUI VẺ, HẸN GẶP LẠI

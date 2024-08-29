@@ -1,0 +1,5 @@
+D:\PTPMUDTM\QL_CAFE\QLCafe\QL_CAFE\DAL\bin\Release\DAL.dll.config
+D:\PTPMUDTM\QL_CAFE\QLCafe\QL_CAFE\DAL\bin\Release\DAL.dll
+D:\PTPMUDTM\QL_CAFE\QLCafe\QL_CAFE\DAL\bin\Release\DAL.pdb
+D:\PTPMUDTM\QL_CAFE\QLCafe\QL_CAFE\DAL\obj\Release\DAL.dll
+D:\PTPMUDTM\QL_CAFE\QLCafe\QL_CAFE\DAL\obj\Release\DAL.pdb
